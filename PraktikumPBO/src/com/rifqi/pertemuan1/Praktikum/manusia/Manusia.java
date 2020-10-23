@@ -1,6 +1,7 @@
 package com.rifqi.pertemuan1.Praktikum.manusia;
 
 public class Manusia {
+    // deklarasi variabel
     private String nama;
     private int umur;
 
